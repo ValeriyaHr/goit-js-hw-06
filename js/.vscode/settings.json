@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.mount": [
+
+    ],
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": ""
+}

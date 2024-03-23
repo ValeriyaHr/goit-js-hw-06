@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3000/c:/Users/%D0%93%D1%80%D0%B8%D0%B1%D0%BE%D0%BA%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F/Documents/GitHub/goit-js-hw-03/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/c:/Users/%D0%93%D1%80%D0%B8%D0%B1%D0%BE%D0%BA%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F/Documents/GitHub/goit-js-hw-03/index.html"
+        }
+    ]
+}
